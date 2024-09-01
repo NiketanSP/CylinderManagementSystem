@@ -1,0 +1,1139 @@
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe.config
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.pdb
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\bin\Debug\AxShockwaveFlashObjects.dll
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.Shared.dll
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\bin\Debug\LiveCharts.dll
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.dll
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\bin\Debug\ShockwaveFlashObjects.dll
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\bin\Debug\stdole.dll
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\bin\Debug\LiveCharts.pdb
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\bin\Debug\LiveCharts.xml
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.pdb
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.xml
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Asset_Master.resources
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Backup.resources
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.DashBoard.resources
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_CDC.resources
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Filling_DC.resources
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_DC_Ledger.resources
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_Master.resources
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Company_Details.resources
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Cylinder_Master.resources
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_DC.resources
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Distribution_Details.resources
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Expense_Master.resources
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Ledger.resources
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Payment.resources
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Register.resources
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Home.resources
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Inventory_Details.resources
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Payment_Master.resources
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Properties.Resources.resources
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Ledger.resources
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Master.resources
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Search.resources
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Outstanding_Cust.resources
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Tax_DC.resources
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Tax_Particular.resources
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.SignUp.resources
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Staff_Details.resources
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Staff_Master.resources
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Supplier_Master.resources
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Calculation.resources
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Sales.resources
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Sales_Ledger.resources
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Track_Cylinder.resources
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Transport_Master.resources
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\Cylinder_Tracking_2021.csproj.GenerateResource.Cache
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.exe
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.pdb
+E:\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\Cylinder_Tracking_2021.csprojResolveAssemblyReference.cache
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe.config
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.pdb
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\bin\Debug\LiveCharts.dll
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\bin\Debug\LiveCharts.pdb
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\bin\Debug\LiveCharts.xml
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Asset_Master.resources
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Backup.resources
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.DashBoard.resources
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_CDC.resources
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Filling_DC.resources
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_DC_Ledger.resources
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_Master.resources
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Company_Details.resources
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Cylinder_Master.resources
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_DC.resources
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Distribution_Details.resources
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Expense_Master.resources
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Ledger.resources
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Payment.resources
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Register.resources
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Home.resources
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Inventory_Details.resources
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Payment_Master.resources
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Properties.Resources.resources
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Ledger.resources
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Master.resources
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Search.resources
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Outstanding_Cust.resources
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Tax_DC.resources
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Tax_Particular.resources
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.SignUp.resources
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Staff_Details.resources
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Staff_Master.resources
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Supplier_Master.resources
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Calculation.resources
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Sales.resources
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Sales_Ledger.resources
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Track_Cylinder.resources
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Transport_Master.resources
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\Cylinder_Tracking_2021.csproj.GenerateResource.cache
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.exe
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.pdb
+C:\Users\NTS\Desktop\Dont Delete Harshal Data Important Data\Cylinder Software 2021\CylinderManagementSystem\obj\Debug\Cylinder_Tracking_2021.csprojResolveAssemblyReference.cache
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe.config
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.exe
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.pdb
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.pdb
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\bin\Debug\LiveCharts.dll
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.dll
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\bin\Debug\LiveCharts.pdb
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\bin\Debug\LiveCharts.xml
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.pdb
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.xml
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\obj\Debug\Cylinder_Tracking_2021.csprojResolveAssemblyReference.cache
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Asset_Master.resources
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Backup.resources
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.DashBoard.resources
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_CDC.resources
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Filling_DC.resources
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_DC_Ledger.resources
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_Master.resources
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Company_Details.resources
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Cylinder_Master.resources
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_DC.resources
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Distribution_Details.resources
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Expense_Master.resources
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Ledger.resources
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Payment.resources
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Register.resources
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Home.resources
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Inventory_Details.resources
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Payment_Master.resources
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Properties.Resources.resources
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Ledger.resources
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Master.resources
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Search.resources
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Outstanding_Cust.resources
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Tax_DC.resources
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Tax_Particular.resources
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.SignUp.resources
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Staff_Details.resources
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Staff_Master.resources
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Supplier_Master.resources
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Calculation.resources
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Sales.resources
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Sales_Ledger.resources
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Track_Cylinder.resources
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Transport_Master.resources
+E:\Cylinder Software 2021 Copy\CylinderManagementSystem\obj\Debug\Cylinder_Tracking_2021.csproj.GenerateResource.Cache
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe.config
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.exe
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.pdb
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.pdb
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.dll
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.dll
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.pdb
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.xml
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.pdb
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.xml
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\obj\Debug\Cylinder_Tracking_2021.csprojResolveAssemblyReference.cache
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Asset_Master.resources
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Backup.resources
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.DashBoard.resources
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_CDC.resources
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Filling_DC.resources
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_DC_Ledger.resources
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_Master.resources
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Company_Details.resources
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Cylinder_Master.resources
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_DC.resources
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Distribution_Details.resources
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Expense_Master.resources
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Ledger.resources
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Payment.resources
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Register.resources
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Home.resources
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Inventory_Details.resources
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Payment_Master.resources
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Properties.Resources.resources
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Ledger.resources
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Master.resources
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Search.resources
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Outstanding_Cust.resources
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Tax_DC.resources
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Tax_Particular.resources
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.SignUp.resources
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Staff_Details.resources
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Staff_Master.resources
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Supplier_Master.resources
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Calculation.resources
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Sales.resources
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Sales_Ledger.resources
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Track_Cylinder.resources
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Transport_Master.resources
+E:\Cylinder Software 2021 Copy 14-07-2021\CylinderManagementSystem\obj\Debug\Cylinder_Tracking_2021.csproj.GenerateResource.Cache
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe.config
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.exe
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.pdb
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.pdb
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.dll
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.dll
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.pdb
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.xml
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.pdb
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.xml
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\obj\Debug\Cylinder_Tracking_2021.csprojResolveAssemblyReference.cache
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Asset_Master.resources
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Backup.resources
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.DashBoard.resources
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_CDC.resources
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Filling_DC.resources
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_DC_Ledger.resources
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_Master.resources
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Company_Details.resources
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Cylinder_Master.resources
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_DC.resources
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Distribution_Details.resources
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Expense_Master.resources
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Ledger.resources
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Payment.resources
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Register.resources
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Home.resources
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Inventory_Details.resources
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Payment_Master.resources
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Properties.Resources.resources
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Ledger.resources
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Master.resources
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Search.resources
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Outstanding_Cust.resources
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Tax_DC.resources
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Tax_Particular.resources
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.SignUp.resources
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Staff_Details.resources
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Staff_Master.resources
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Supplier_Master.resources
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Calculation.resources
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Sales.resources
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Sales_Ledger.resources
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Track_Cylinder.resources
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Transport_Master.resources
+E:\Cylinder Software 2021 Copy 15-07-2021\CylinderManagementSystem\obj\Debug\Cylinder_Tracking_2021.csproj.GenerateResource.Cache
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe.config
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.exe
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.pdb
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.pdb
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.dll
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.dll
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.pdb
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.xml
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.pdb
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.xml
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Asset_Master.resources
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Backup.resources
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.DashBoard.resources
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_CDC.resources
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Filling_DC.resources
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_DC_Ledger.resources
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_Master.resources
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Company_Details.resources
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Cylinder_Master.resources
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_DC.resources
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Distribution_Details.resources
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Expense_Master.resources
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Ledger.resources
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Payment.resources
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Register.resources
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Home.resources
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Inventory_Details.resources
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Payment_Master.resources
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Properties.Resources.resources
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Ledger.resources
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Master.resources
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Search.resources
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Outstanding_Cust.resources
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Tax_DC.resources
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Tax_Particular.resources
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.SignUp.resources
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Staff_Details.resources
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Staff_Master.resources
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Supplier_Master.resources
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Calculation.resources
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Sales.resources
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Sales_Ledger.resources
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Track_Cylinder.resources
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Transport_Master.resources
+E:\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\Cylinder_Tracking_2021.csproj.GenerateResource.Cache
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe.config
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.exe
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.pdb
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.pdb
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.dll
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.pdb
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.xml
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\Cylinder_Tracking_2021.csprojResolveAssemblyReference.cache
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Asset_Master.resources
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Backup.resources
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.DashBoard.resources
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Master.resources
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_CDC.resources
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Filling_DC.resources
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_DC_Ledger.resources
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_Master.resources
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Company_Details.resources
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Cylinder_Master.resources
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_DC.resources
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Distribution_Details.resources
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Expense_Master.resources
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Ledger.resources
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Payment.resources
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Register.resources
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Home.resources
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Inventory_Details.resources
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Payment_Master.resources
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Properties.Resources.resources
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Ledger.resources
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Search.resources
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Outstanding_Cust.resources
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Tax_DC.resources
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Tax_Particular.resources
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.SignUp.resources
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Staff_Details.resources
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Staff_Master.resources
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Supplier_Master.resources
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Calculation.resources
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Sales.resources
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Sales_Ledger.resources
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Track_Cylinder.resources
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Transport_Master.resources
+C:\Users\NTS\Desktop\VM GAS STOCK\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\Cylinder_Tracking_2021.csproj.GenerateResource.Cache
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe.config
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.exe
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.pdb
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.pdb
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\AxShockwaveFlashObjects.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.Shared.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\ShockwaveFlashObjects.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\stdole.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.pdb
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.xml
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.pdb
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.xml
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\Cylinder_Tracking_2021.csprojResolveAssemblyReference.cache
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Asset_Master.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Backup.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.DashBoard.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Master.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_CDC.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Filling_DC.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_DC_Ledger.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_Master.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Company_Details.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Cylinder_Master.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_DC.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Distribution_Details.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Expense_Master.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Ledger.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Payment.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Register.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Home.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Inventory_Details.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Payment_Master.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Properties.Resources.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Ledger.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Search.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Outstanding_Cust.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Tax_DC.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Tax_Particular.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.SignUp.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Staff_Details.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Staff_Master.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Supplier_Master.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Calculation.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Sales.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Sales_Ledger.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Track_Cylinder.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Transport_Master.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\Cylinder_Tracking_2021.csproj.GenerateResource.Cache
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe.config
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.exe
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.pdb
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.pdb
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.dll
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\stdole.dll
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.pdb
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.xml
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\Cylinder_Tracking_2021.csprojResolveAssemblyReference.cache
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Asset_Master.resources
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Backup.resources
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.DashBoard.resources
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Master.resources
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_CDC.resources
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Filling_DC.resources
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_DC_Ledger.resources
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_Master.resources
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Company_Details.resources
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Cylinder_Master.resources
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_DC.resources
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Distribution_Details.resources
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Expense_Master.resources
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Ledger.resources
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Payment.resources
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Register.resources
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Home.resources
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Inventory_Details.resources
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Payment_Master.resources
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Properties.Resources.resources
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Ledger.resources
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Search.resources
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Outstanding_Cust.resources
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Tax_DC.resources
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Tax_Particular.resources
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.SignUp.resources
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Staff_Details.resources
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Staff_Master.resources
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Supplier_Master.resources
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Calculation.resources
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Sales.resources
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Sales_Ledger.resources
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Track_Cylinder.resources
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Transport_Master.resources
+C:\Users\NTS\Desktop\current projects\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\Cylinder_Tracking_2021.csproj.GenerateResource.Cache
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe.config
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.exe
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.pdb
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.pdb
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\stdole.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.pdb
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.xml
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\Cylinder_Tracking_2021.csprojResolveAssemblyReference.cache
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Asset_Master.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Backup.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.DashBoard.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Master.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_CDC.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Filling_DC.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_DC_Ledger.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_Master.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Company_Details.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Cylinder_Master.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_DC.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Distribution_Details.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Expense_Master.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Ledger.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Payment.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Register.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Home.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Inventory_Details.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Payment_Master.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Properties.Resources.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Ledger.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Search.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Outstanding_Cust.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Tax_DC.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Tax_Particular.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.SignUp.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Staff_Details.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Staff_Master.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Supplier_Master.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Calculation.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Sales.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Sales_Ledger.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Track_Cylinder.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Transport_Master.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\Cylinder Software 2021 Copy 19-07-2021\CylinderManagementSystem\obj\Debug\Cylinder_Tracking_2021.csproj.GenerateResource.Cache
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe.config
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.exe
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.pdb
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.pdb
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\bin\Debug\LiveCharts.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\bin\Debug\stdole.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\bin\Debug\LiveCharts.pdb
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\bin\Debug\LiveCharts.xml
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\obj\Debug\Cylinder_Tracking_2021.csprojResolveAssemblyReference.cache
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Asset_Master.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Backup.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.DashBoard.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Master.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_CDC.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Filling_DC.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_DC_Ledger.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_Master.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Company_Details.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Cylinder_Master.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_DC.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Distribution_Details.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Expense_Master.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Ledger.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Payment.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Register.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Home.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Inventory_Details.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Payment_Master.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Properties.Resources.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Ledger.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Search.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Outstanding_Cust.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Tax_DC.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Tax_Particular.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.SignUp.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Staff_Details.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Staff_Master.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Supplier_Master.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Calculation.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Sales.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Sales_Ledger.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Track_Cylinder.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Transport_Master.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\20-08-2021\CylinderManagementSystem\obj\Debug\Cylinder_Tracking_2021.csproj.GenerateResource.Cache
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe.config
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.exe
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.pdb
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.pdb
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\bin\Debug\LiveCharts.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\bin\Debug\stdole.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\bin\Debug\LiveCharts.pdb
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\bin\Debug\LiveCharts.xml
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\obj\Debug\Cylinder_Tracking_2021.csprojResolveAssemblyReference.cache
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Asset_Master.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Backup.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.DashBoard.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Master.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_CDC.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Filling_DC.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_DC_Ledger.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_Master.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Company_Details.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Cylinder_Master.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_DC.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Distribution_Details.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Expense_Master.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Ledger.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Payment.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Register.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Home.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Inventory_Details.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Payment_Master.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Properties.Resources.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Ledger.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Search.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Outstanding_Cust.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Tax_DC.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Tax_Particular.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.SignUp.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Staff_Details.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Staff_Master.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Supplier_Master.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Calculation.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Sales.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Sales_Ledger.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Track_Cylinder.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Transport_Master.resources
+C:\Users\NTS\Desktop\current projects\VM GAS\09-09-2021\CylinderManagementSystem\obj\Debug\Cylinder_Tracking_2021.csproj.GenerateResource.Cache
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe.config
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.exe
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.pdb
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.pdb
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\bin\Debug\LiveCharts.dll
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\bin\Debug\stdole.dll
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\bin\Debug\LiveCharts.pdb
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\bin\Debug\LiveCharts.xml
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\obj\Debug\Cylinder_Tracking_2021.csprojResolveAssemblyReference.cache
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Asset_Master.resources
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Backup.resources
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.DashBoard.resources
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Master.resources
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_CDC.resources
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Filling_DC.resources
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_DC_Ledger.resources
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_Master.resources
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Company_Details.resources
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Cylinder_Master.resources
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_DC.resources
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Distribution_Details.resources
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Expense_Master.resources
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Ledger.resources
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Payment.resources
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Register.resources
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Home.resources
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Inventory_Details.resources
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Payment_Master.resources
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Properties.Resources.resources
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Ledger.resources
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Search.resources
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Outstanding_Cust.resources
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Tax_DC.resources
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Tax_Particular.resources
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.SignUp.resources
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Staff_Details.resources
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Staff_Master.resources
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Supplier_Master.resources
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Calculation.resources
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Sales.resources
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Sales_Ledger.resources
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Track_Cylinder.resources
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Transport_Master.resources
+C:\Users\NTS\Desktop\Updated Projects\VM Gas\09-09-2021\CylinderManagementSystem\obj\Debug\Cylinder_Tracking_2021.csproj.GenerateResource.Cache
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe.config
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.exe
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.pdb
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.pdb
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\bin\Debug\AxShockwaveFlashObjects.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.Shared.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\bin\Debug\LiveCharts.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\bin\Debug\ShockwaveFlashObjects.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\bin\Debug\stdole.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\bin\Debug\LiveCharts.pdb
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\bin\Debug\LiveCharts.xml
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.pdb
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.xml
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\obj\Debug\Cylinder_Tracking_2021.csprojResolveAssemblyReference.cache
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Asset_Master.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Backup.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.DashBoard.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Master.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_CDC.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Filling_DC.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_DC_Ledger.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_Master.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Company_Details.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Cylinder_Master.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_DC.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Distribution_Details.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Expense_Master.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Ledger.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Payment.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Register.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Home.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Inventory_Details.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Payment_Master.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Properties.Resources.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Ledger.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Search.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Outstanding_Cust.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Tax_DC.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Tax_Particular.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.SignUp.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Staff_Details.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Staff_Master.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Supplier_Master.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Calculation.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Sales.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Sales_Ledger.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Track_Cylinder.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Transport_Master.resources
+E:\Dont Delete Harshal Data Important Data\Current Working\09-09-2021\CylinderManagementSystem\obj\Debug\Cylinder_Tracking_2021.csproj.GenerateResource.Cache
+E:\Dont Delete Harshal Data Important Data\Current Working\12-09-2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe.config
+E:\Dont Delete Harshal Data Important Data\Current Working\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.exe
+E:\Dont Delete Harshal Data Important Data\Current Working\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.pdb
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe.config
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.exe
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.pdb
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.pdb
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\bin\Debug\AxShockwaveFlashObjects.dll
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.Shared.dll
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\bin\Debug\LiveCharts.dll
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.dll
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\bin\Debug\ShockwaveFlashObjects.dll
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\bin\Debug\stdole.dll
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\bin\Debug\LiveCharts.pdb
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\bin\Debug\LiveCharts.xml
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.pdb
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.xml
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Asset_Master.resources
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Backup.resources
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.DashBoard.resources
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Master.resources
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_CDC.resources
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Filling_DC.resources
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_DC_Ledger.resources
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_Master.resources
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Company_Details.resources
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Cylinder_Master.resources
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_DC.resources
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Distribution_Details.resources
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Expense_Master.resources
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Ledger.resources
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Payment.resources
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Register.resources
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Home.resources
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Inventory_Details.resources
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Payment_Master.resources
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Properties.Resources.resources
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Ledger.resources
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Search.resources
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Outstanding_Cust.resources
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Tax_DC.resources
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Tax_Particular.resources
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.SignUp.resources
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Staff_Details.resources
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Staff_Master.resources
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Supplier_Master.resources
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Calculation.resources
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Sales.resources
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Sales_Ledger.resources
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Track_Cylinder.resources
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Transport_Master.resources
+F:\C Data\Desktop\Current Working\12-09-2021\CylinderManagementSystem\obj\Debug\Cylinder_Tracking_2021.csproj.GenerateResource.Cache
+F:\2022 Updated Projects\VM GAS\12-09-2021\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe.config
+F:\2022 Updated Projects\VM GAS\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.exe
+F:\2022 Updated Projects\VM GAS\12-09-2021\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.pdb
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe.config
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.exe
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.pdb
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.pdb
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\bin\Debug\LiveCharts.dll
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.dll
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\bin\Debug\ShockwaveFlashObjects.dll
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\bin\Debug\stdole.dll
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\bin\Debug\LiveCharts.pdb
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\bin\Debug\LiveCharts.xml
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.pdb
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.xml
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\obj\Debug\Cylinder_Tracking_2021.csprojResolveAssemblyReference.cache
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Asset_Master.resources
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Backup.resources
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.DashBoard.resources
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Master.resources
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_CDC.resources
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Filling_DC.resources
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_DC_Ledger.resources
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_Master.resources
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Company_Details.resources
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Cylinder_Master.resources
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_DC.resources
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Distribution_Details.resources
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Expense_Master.resources
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Ledger.resources
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Payment.resources
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Register.resources
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Home.resources
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Inventory_Details.resources
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Payment_Master.resources
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Properties.Resources.resources
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Ledger.resources
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Search.resources
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Outstanding_Cust.resources
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Tax_DC.resources
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Tax_Particular.resources
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.SignUp.resources
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Staff_Details.resources
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Staff_Master.resources
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Supplier_Master.resources
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Calculation.resources
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Sales.resources
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Sales_Ledger.resources
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Track_Cylinder.resources
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Transport_Master.resources
+G:\Dnyanda\PROJECTS\VM Gas\Project\CylinderManagementSystem\obj\Debug\Cylinder_Tracking_2021.csproj.GenerateResource.Cache
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe.config
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.exe
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.pdb
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.pdb
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\LiveCharts.dll
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.dll
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\ShockwaveFlashObjects.dll
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\stdole.dll
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\LiveCharts.pdb
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\LiveCharts.xml
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.pdb
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.xml
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\Cylinder_Tracking_2021.csprojResolveAssemblyReference.cache
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Asset_Master.resources
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Backup.resources
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.DashBoard.resources
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Master.resources
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_CDC.resources
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Filling_DC.resources
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_DC_Ledger.resources
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_Master.resources
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Company_Details.resources
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Cylinder_Master.resources
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_DC.resources
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Distribution_Details.resources
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Expense_Master.resources
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Ledger.resources
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Payment.resources
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Register.resources
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Home.resources
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Inventory_Details.resources
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Payment_Master.resources
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Properties.Resources.resources
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Ledger.resources
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Search.resources
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Outstanding_Cust.resources
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Tax_DC.resources
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Tax_Particular.resources
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.SignUp.resources
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Staff_Details.resources
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Staff_Master.resources
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Supplier_Master.resources
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Calculation.resources
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Sales.resources
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Sales_Ledger.resources
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Track_Cylinder.resources
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Transport_Master.resources
+G:\Dnyanda\PROJECTS\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\Cylinder_Tracking_2021.csproj.GenerateResource.Cache
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe.config
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.pdb
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\LiveCharts.dll
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.dll
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\ShockwaveFlashObjects.dll
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\stdole.dll
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\LiveCharts.pdb
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\LiveCharts.xml
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.pdb
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.xml
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\Cylinder_Tracking_2021.csproj.AssemblyReference.cache
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Asset_Master.resources
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Backup.resources
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.DashBoard.resources
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Master.resources
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_CDC.resources
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Filling_DC.resources
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_DC_Ledger.resources
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_Master.resources
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Company_Details.resources
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Cylinder_Master.resources
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_DC.resources
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Distribution_Details.resources
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Expense_Master.resources
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Ledger.resources
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Payment.resources
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Register.resources
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Home.resources
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Inventory_Details.resources
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Payment_Master.resources
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Properties.Resources.resources
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Ledger.resources
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Search.resources
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Outstanding_Cust.resources
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Tax_DC.resources
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Tax_Particular.resources
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.SignUp.resources
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Staff_Details.resources
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Staff_Master.resources
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Supplier_Master.resources
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Calculation.resources
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Sales.resources
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Sales_Ledger.resources
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Track_Cylinder.resources
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Transport_Master.resources
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\Cylinder_Tracking_2021.csproj.GenerateResource.cache
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\Cylinder_Tracking_2021.csproj.CoreCompileInputs.cache
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\Cylinder_Tracking_2021.csproj.CopyComplete
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.exe
+D:\kalpesh\Kalpesh\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.pdb
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe.config
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.exe
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.pdb
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.exe
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CylinderManagementSystem.pdb
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\LiveCharts.dll
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\stdole.dll
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\LiveCharts.pdb
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\LiveCharts.xml
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Asset_Master.resources
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Backup.resources
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.DashBoard.resources
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Master.resources
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_CDC.resources
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Filling_DC.resources
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_DC_Ledger.resources
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_Master.resources
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Company_Details.resources
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Cylinder_Master.resources
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Customer_DC.resources
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Distribution_Details.resources
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Expense_Master.resources
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Ledger.resources
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Payment.resources
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Filling_Register.resources
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Home.resources
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Inventory_Details.resources
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Payment_Master.resources
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Properties.Resources.resources
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Ledger.resources
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Purchase_Search.resources
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Outstanding_Cust.resources
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Tax_DC.resources
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Report_Tax_Particular.resources
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.SignUp.resources
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Staff_Details.resources
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Staff_Master.resources
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Supplier_Master.resources
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Calculation.resources
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Sales.resources
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Tax_Sales_Ledger.resources
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Track_Cylinder.resources
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\CylinderManagementSystem.Transport_Master.resources
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\Cylinder_Tracking_2021.csproj.GenerateResource.Cache
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\Cylinder_Tracking_2021.csproj.AssemblyReference.cache
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\Cylinder_Tracking_2021.csproj.CoreCompileInputs.cache
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\obj\Debug\Cylinder.3CE950AE.Up2Date
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\Common.Logging.Core.dll
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\Common.Logging.dll
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\Common.Logging.Log4Net1210.dll
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\log4net.dll
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\Common.Logging.pdb
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\Common.Logging.xml
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\Common.Logging.Core.pdb
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\Common.Logging.Core.xml
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\Common.Logging.Log4Net1210.pdb
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\Common.Logging.Log4Net1210.xml
+C:\Users\H D\Desktop\VM Gas - Copy\Project\CylinderManagementSystem\bin\Debug\log4net.xml
