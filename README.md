@@ -14,7 +14,7 @@
 <br>
 
 ## :dart: About
-This is about.
+The Cylinder Management Project is developed to streamline and manage the distribution of gas cylinders for a gas agency company. This project aimed to enhance the efficiency of tracking cylinders throughout their lifecycle, from suppliers to customers. The system is developed as part of a broader ERP (Enterprise Resource Planning) solution using C# .NET for the frontend and MySQL for the backend.
 
 ## :sparkles: Features
 ◽Cylinder Tracking \
@@ -25,7 +25,7 @@ This is about.
 ◽Reports 
 
 ## :sparkles: Design
-design
+<a href="design-reference">Here</a> is detail Design and Documentation of project.
 
 ## :checkered_flag: Illustrations
 Here are some Illustrations of screens.
