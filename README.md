@@ -7,8 +7,7 @@
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#sparkles-design">Design</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-illustrations">Illustrations</a>
+  <a href="#sparkles-design">Design</a>
 </p>
 
 <br>
@@ -26,10 +25,3 @@ The Cylinder Management Project is developed to streamline and manage the distri
 
 ## :sparkles: Design
 <a href="design-reference">Here</a> is detail Design and Documentation of project.
-
-## :checkered_flag: Illustrations
-Here are some Illustrations of screens.
-
-
-# CylinderManagementSystem
-Integrated Gas Agency ERP
