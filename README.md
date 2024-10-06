@@ -23,5 +23,5 @@ The Cylinder Management Project is developed to streamline and manage the distri
 ◽Expenses Register \
 ◽Reports 
 
-## :sparkles: Design
-<a href="design-reference">Here</a> is detail Design and Documentation of project.
+<!--## :sparkles: Design
+<a href="design-reference">Here</a> is detail Design and Documentation of project.-->
